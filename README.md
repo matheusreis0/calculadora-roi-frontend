@@ -15,10 +15,10 @@ Projeto para calcular ROI de leads e comparar o valor com os serviços do olist.
 * Gráfico com ROI com o olist
 
 ### Especificação de arquitetura
-* Projeto frontend
+* Plugin para Wordpress
 
 ### Especificação de tecnologias
-* Projeto desenvolvido em React.js utilizando NextJs para melhor perfomance de SEO.
+* A calculadora fica visível no site principal do olist (olist.com), por conta disso, o projeto é desenvolvido em PHP.
 
 ### Telas
 1. Tela inicial
