@@ -5,6 +5,8 @@ Projeto para calcular ROI de leads e comparar o valor com os serviços do olist.
 1. Tela inicial:
 * Nome do responsavel
 * E-mail da empresa
+
+2. Tela com calculadora
 * Categoria dos produtos
 * Investimentos em campanha por mês
 * Ticket médio
@@ -21,12 +23,15 @@ Projeto para calcular ROI de leads e comparar o valor com os serviços do olist.
 * A calculadora fica visível no site principal do olist (olist.com), por conta disso, o projeto é desenvolvido em PHP.
 
 ### Telas
-1. Tela inicial
-![](images/formulario.jpg)
+1. Tela de formulário de lead
+![](images/tela-form-lead.jpg)
 
-2. Tela com resultado da calculadora
-![](images/resultado.jpg)
+2. Tela de formulário de calculadora
+![](images/tela-form-calculadora.jpg)
+
+3. Tela de resultado, com gráficos
+![](images/tela-resultado.jpg)
 
 ### Fluxo de comunicação com API
-1. Fluxo de comunicação com API e redirecionamentos de tela
+1. Fluxo de comunicação com API e redirecionamento de telas
 ![](images/calculadora-roi-frontend.jpg)
