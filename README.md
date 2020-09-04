@@ -3,6 +3,8 @@ Projeto para calcular ROI de leads e comparar o valor com os serviços do olist.
 
 ### Especificação de campos/funcionalidades
 1. Tela inicial:
+* Nome do responsavel
+* E-mail da empresa
 * Categoria dos produtos
 * Investimentos em campanha por mês
 * Ticket médio
