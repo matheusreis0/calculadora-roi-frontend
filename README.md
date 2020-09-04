@@ -20,7 +20,7 @@ Projeto para calcular ROI de leads e comparar o valor com os serviços do olist.
 
 ### Telas
 1. Tela inicial
-![](images/tela_calculadora.jpg)
+![](images/formulario.jpg)
 
 2. Tela com resultado da calculadora
-![](images/tela_com_resultado.jpg)
+![](images/resultado.jpg)
