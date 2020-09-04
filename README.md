@@ -1,5 +1,5 @@
 # calculadora-roi-frontend
-Projeto para calcular ROI de leads e comparar o valor com os serviços do olist.
+Projeto para calcular ROI de leads e comparar o valor com os serviços do olist. Inspirado inicialmente na tela: https://olist.com/solucoes/como-comecar-a-vender/
 
 ### Especificação de campos/funcionalidades
 1. Tela inicial:
@@ -26,3 +26,7 @@ Projeto para calcular ROI de leads e comparar o valor com os serviços do olist.
 
 2. Tela com resultado da calculadora
 ![](images/resultado.jpg)
+
+### Fluxo de comunicação com API
+1. Fluxo de comunicação com API e redirecionamentos de tela
+![](images/calculadora-roi-frontend.jpg)
