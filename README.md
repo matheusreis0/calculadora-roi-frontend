@@ -1,5 +1,5 @@
 # Calculadora de ROI (wordpress)
-Projeto para especificar frontend de uma aplicação que calcula ROI de leads e compara o valor com os serviços do **olist**. Esse projeto é separado em duas frentes: frontend e plugin. O frontend leva em conta o que será mostrado no site, e o plugin fica a parte do administrador do wordpress.
+Projeto para especificar uma aplicação que calcula ROI de leads e compara o valor com os serviços do **olist**. Este projeto é separado em duas frentes: frontend e plugin. O frontend diz respeito ao que será mostrado no site, e o plugin fica a parte do administrador do wordpress.
 
 * A parte de frontend foi inspirada inicialmente nesta [página](https://olist.com/solucoes/como-comecar-a-vender/)
 
