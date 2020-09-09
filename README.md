@@ -15,14 +15,14 @@ Projeto para especificar frontend de uma aplicação que calcula ROI de leads e 
 [telas](https://www.figma.com/proto/yMvQvtLgKBqELgwjMttYGH/calculadora-roi-frontend?node-id=33%3A2&scaling=min-zoom)
 
 ### Campos e funcionalidades
-1. Tela inicial:
+1. **Tela inicial:**
 
 Campo | Tipo
 --- | ---
 Nome do responsável | string
 E-mail da empresa | string, email
 
-2. Tela com calculadora
+2. **Tela com calculadora**
 
 Campo | Tipo
 --- | ---
@@ -31,7 +31,7 @@ Investimentos em campanha por mês | decimal
 Ticket médio | decimal
 Volume médio de vendas por mês | decimal
 
-3. Tela com resultado
+3. **Tela com resultado**
 * Gráfico com ROI sem o olist
 * Gráfico com ROI com o olist
 
