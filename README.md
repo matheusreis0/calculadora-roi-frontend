@@ -14,7 +14,7 @@ Projeto para especificar frontend de uma aplicação que calcula ROI de leads e 
 * Para ver prints das telas e fluxo de trabalho entre elas no figma:
 [telas](https://www.figma.com/proto/yMvQvtLgKBqELgwjMttYGH/calculadora-roi-frontend?node-id=33%3A2&scaling=min-zoom)
 
-### Campos e funcionalidades
+### Campos e funcionalidades do frontend
 1. **Tela inicial:**
 
 Campo | Tipo
