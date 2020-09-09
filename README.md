@@ -11,14 +11,20 @@ Projeto para especificar frontend de uma aplicação que calcula ROI de leads e 
 
 ### Campos e funcionalidades
 1. Tela inicial:
-* Nome do responsável
-* E-mail da empresa
+
+Campo | Tipo
+--- | ---
+Nome do responsável | string
+E-mail da empresa | string, email
 
 2. Tela com calculadora
-* Categoria dos produtos
-* Investimentos em campanha por mês
-* Ticket médio
-* Volume médio de vendas por
+
+Campo | Tipo
+--- | ---
+Categoria dos produtos | string
+Investimentos em campanha por mês | decimal
+Ticket médio | decimal
+Volume médio de vendas por mês | decimal
 
 2. Tela com resultado
 * Gráfico com ROI sem o olist
