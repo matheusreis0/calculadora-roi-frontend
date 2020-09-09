@@ -1,36 +1,34 @@
-# calculadora-roi-frontend
-Projeto para calcular ROI de leads e comparar o valor com os serviços do olist. Inspirado inicialmente na tela: https://olist.com/solucoes/como-comecar-a-vender/
+# Calculadora de ROI (frontend)
+Projeto para especificar frontend de uma aplicação que calcula ROI de leads e compara o valor com os serviços do **olist**.
 
-### Especificação de campos/funcionalidades
+* Inspirado inicialmente nesta [página](https://olist.com/solucoes/como-comecar-a-vender/)
+
+
+### Telas
+
+* Para ver prints das telas e fluxo de trabalho entre elas no figma:
+[telas](https://www.figma.com/proto/yMvQvtLgKBqELgwjMttYGH/calculadora-roi-frontend?node-id=33%3A2&scaling=min-zoom)
+
+### Campos e funcionalidades
 1. Tela inicial:
-* Nome do responsavel
+* Nome do responsável
 * E-mail da empresa
 
 2. Tela com calculadora
 * Categoria dos produtos
 * Investimentos em campanha por mês
 * Ticket médio
-* Volume médio de vendas por mês
+* Volume médio de vendas por
 
 2. Tela com resultado
 * Gráfico com ROI sem o olist
 * Gráfico com ROI com o olist
 
-### Especificação de arquitetura
+### Arquitetura
 * Plugin para Wordpress
 
-### Especificação de tecnologias
+### Tecnologias usadas
 * A calculadora fica visível no site principal do olist (olist.com), por conta disso, o projeto é desenvolvido em PHP.
-
-### Telas
-1. Tela de formulário de lead
-![](images/tela-form-lead.jpg)
-
-2. Tela de formulário de calculadora
-![](images/tela-form-calculadora.jpg)
-
-3. Tela de resultado, com gráficos
-![](images/tela-resultado.jpg)
 
 ### Fluxo de comunicação com API
 1. Fluxo de comunicação com API e redirecionamento de telas
