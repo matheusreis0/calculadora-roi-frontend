@@ -1,20 +1,21 @@
-# Calculadora de ROI (wordpress)
-Projeto para especificar uma aplicação que calcula ROI de leads e compara o valor com os serviços do **olist**. Este projeto é separado em duas frentes: frontend e plugin. O frontend diz respeito ao que será mostrado no site, e o plugin fica a parte do administrador do wordpress.
+# Calculadora de ROI (frontend)
+Projeto para especificar uma aplicação que calcula ROI de leads e compara o valor com os serviços do **olist**.
 
 * A parte de frontend foi inspirada inicialmente nesta [página](https://olist.com/solucoes/como-comecar-a-vender/)
 
 ### Tecnologias usadas
-* A calculadora fica visível no site principal do olist (olist.com), levando em conta a especificação de arquitetura, o plugin é desenvolvido em PHP. A parte de frontend é em HTML, CSS e JavaScript, ficando a par do wordpress renderizar o código.
+* A calculadora ficará visível no webapp do olist (app.olist.com), e levando em conta a especificação de arquitetura, é desenvolvido em React. A instalação de dependências pode seguir a especificação no repositório do web app.
 
-### Arquitetura do plugin
-* A parte de plugin para wordpress, pode seguir até mesmo a estrutura do [Contact Form](https://wordpress.org/plugins/contact-form-7/). O plugin cria uma tela nova na parte de admin, e contém um formulário que pergunta ao usuário em qual tela devem ser implementadas as telas do lead, após isso, mostra uma prévia e uma opção para salvar a alteração.
+### Arquitetura
+* O projeto é uma feature nova para o site, é tratado como uma tela nova antes do usuário estar logado, como por exemplo, app.olist.com/calculadora-roi.
+* A parte de arquitetura segue o padrão do olist [link](https://jira-olist.atlassian.net/wiki/spaces/OP/pages/635895809/Arquitetura+de+front+do+olist).
 
-### Telas do frontend
+### Telas
 
 * Para ver prints das telas e fluxo de trabalho entre elas no figma:
 [telas](https://www.figma.com/proto/yMvQvtLgKBqELgwjMttYGH/calculadora-roi-frontend?node-id=33%3A2&scaling=min-zoom)
 
-### Campos e funcionalidades do frontend
+### Campos e funcionalidades
 1. **Tela inicial:**
 
 Campo | Tipo
@@ -35,6 +36,6 @@ Volume médio de vendas por mês | decimal
 * Gráfico com ROI sem o olist
 * Gráfico com ROI com o olist
 
-### Fluxo de comunicação do plugin com API
-1. Fluxo de comunicação do plugin com API e redirecionamento de telas
+### Fluxo de comunicação com API
+1. Fluxo de comunicação com API e redirecionamento de telas
 ![](images/calculadora-roi-frontend.jpg)
