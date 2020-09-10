@@ -38,4 +38,4 @@ Volume médio de vendas por mês | decimal
 
 ### Fluxo de comunicação com API
 1. Fluxo de comunicação com API e redirecionamento de telas
-![](images/calculadora-roi-frontend.jpg)
+![](images/fluxo-telas.jpg)
