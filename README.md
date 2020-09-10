@@ -1,7 +1,7 @@
 # Calculadora de ROI (frontend)
 Projeto para especificar uma aplicação que calcula ROI de leads e compara o valor com os serviços do **olist**.
 
-* A parte de frontend foi inspirada inicialmente nesta [página](https://olist.com/solucoes/como-comecar-a-vender/)
+* O design das telas foi inspirado inicialmente nesta [página](https://olist.com/solucoes/como-comecar-a-vender/)
 
 ### Tecnologias usadas
 * A calculadora ficará visível no webapp do olist (app.olist.com), e levando em conta a especificação de arquitetura, é desenvolvido em React. A instalação de dependências pode seguir a especificação no repositório do web app.
@@ -36,6 +36,6 @@ Volume médio de vendas por mês | decimal
 * Gráfico com ROI sem o olist
 * Gráfico com ROI com o olist
 
-### Fluxo de comunicação com API
-1. Fluxo de comunicação com API e redirecionamento de telas
+### Fluxo de comunicação de telas com API
+1. Fluxo de comunicação das telas com API e redirecionamento de telas
 ![](images/fluxo-telas.png)
